@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9dadca5-252b-48d3-ab34-0fde6601479d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -119,51 +118,40 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bat" value="2" />
+          <entry key="gradle" value="2" />
+          <entry key="gradlew" value="2" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="2" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="44" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/UserLogicTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Application/Logic/UserLogic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Application/Dal/Entity/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-              <folding>
-                <element signature="e#1304#1305#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -179,7 +167,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\Roel Brekelmans\.gradle\wrapper\dists\gradle-4.8-all\41c9mvq2w0645xx6nsenaerjl\gradle-4.8" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\Roel Brekelmans\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -406,7 +394,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6189892024945" />
+        <entry key="$PROJECT_DIR$" value="6189896179961" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1500220435" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
@@ -590,8 +578,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -602,12 +588,30 @@
             <path>
               <item name="Individueel Api S3" type="b2602c69:ProjectViewProjectNode" />
               <item name="IndividueelApi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Individueel Api S3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IndividueelApi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Individueel Api S3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IndividueelApi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Individueel Api S3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IndividueelApi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -618,13 +622,15 @@
     <property name="RequestMappingsPanelWidth1" value="15" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547477262010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547477420916" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.29770115" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -638,94 +644,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.IndividueelApi [wrapper]">
-    <configuration name="IndividueelApi [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.IndividueelApi [wrapper --gradle-version 4.8]">
+    <configuration name="IndividueelApi [.gradle clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="buildDependents" />
+            <option value=".gradle" />
+            <option value="clean" />
           </list>
         </option>
-        <option name="vmOptions" />
+        <option name="vmOptions" value="" />
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="IndividueelApi [buildNeeded]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="IndividueelApi [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="buildNeeded" />
+            <option value="build" />
           </list>
         </option>
-        <option name="vmOptions" />
+        <option name="vmOptions" value="" />
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="IndividueelApi [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="IndividueelApi [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="init" />
+            <option value="clean" />
           </list>
         </option>
-        <option name="vmOptions" />
+        <option name="vmOptions" value="" />
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="IndividueelApi [testClasses]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="IndividueelApi [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="testClasses" />
+            <option value="test" />
           </list>
         </option>
-        <option name="vmOptions" />
+        <option name="vmOptions" value="" />
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
-    <configuration name="IndividueelApi [wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="IndividueelApi [wrapper --gradle-version 4.8]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
             <option value="wrapper" />
+            <option value="--gradle-version" />
+            <option value="4.8" />
           </list>
         </option>
-        <option name="vmOptions" />
+        <option name="vmOptions" value="" />
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
@@ -761,19 +770,19 @@
     <list>
       <item itemvalue="JUnit.All Tests" />
       <item itemvalue="Spring Boot.Run Api" />
-      <item itemvalue="Gradle.IndividueelApi [testClasses]" />
-      <item itemvalue="Gradle.IndividueelApi [buildDependents]" />
-      <item itemvalue="Gradle.IndividueelApi [buildNeeded]" />
-      <item itemvalue="Gradle.IndividueelApi [init]" />
-      <item itemvalue="Gradle.IndividueelApi [wrapper]" />
+      <item itemvalue="Gradle.IndividueelApi [.gradle clean]" />
+      <item itemvalue="Gradle.IndividueelApi [clean]" />
+      <item itemvalue="Gradle.IndividueelApi [build]" />
+      <item itemvalue="Gradle.IndividueelApi [test]" />
+      <item itemvalue="Gradle.IndividueelApi [wrapper --gradle-version 4.8]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.IndividueelApi [wrapper]" />
-        <item itemvalue="Gradle.IndividueelApi [init]" />
-        <item itemvalue="Gradle.IndividueelApi [buildNeeded]" />
-        <item itemvalue="Gradle.IndividueelApi [buildDependents]" />
-        <item itemvalue="Gradle.IndividueelApi [testClasses]" />
+        <item itemvalue="Gradle.IndividueelApi [wrapper --gradle-version 4.8]" />
+        <item itemvalue="Gradle.IndividueelApi [test]" />
+        <item itemvalue="Gradle.IndividueelApi [build]" />
+        <item itemvalue="Gradle.IndividueelApi [clean]" />
+        <item itemvalue="Gradle.IndividueelApi [.gradle clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -789,7 +798,8 @@
       <updated>1547470199470</updated>
       <workItem from="1547470203371" duration="2609000" />
       <workItem from="1547473065442" duration="187000" />
-      <workItem from="1547476116281" duration="949000" />
+      <workItem from="1547476116281" duration="1472000" />
+      <workItem from="1547479808768" duration="960000" />
     </task>
     <servers />
   </component>
@@ -826,12 +836,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3745000" />
+    <option name="totallyTimeSpent" value="5228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20149253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -841,7 +851,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3264642" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3264642" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -887,9 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="747">
           <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -939,10 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding>
-            <element signature="e#891#892#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,9 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -967,9 +967,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1012,11 +1009,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1076,33 +1068,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/UserLogicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Application/Logic/UserLogic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1113,9 +1078,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Application/Dal/Entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="636">
           <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
             <element signature="e#1304#1305#0" expanded="true" />
@@ -1123,6 +1095,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/UserLogicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="1" selection-start-line="30" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="wrapper --gradle-version 4.8" />
+    <option value="test" />
+    <option value="build" />
+    <option value="clean" />
+    <option value=".gradle clean" />
+    <option value="gradlew setupDecompWorkspace" />
+    <option value="gradle clean" />
+    <option value="./gradle clean" />
+    <option value="/gradle clean" />
+    <option value="gradlew build" />
+    <option value="gradlew" />
+    <option value="gradle wrapper --gradle-version 4.8" />
+    <option value="/gradle" />
+    <option value="./gradlew" />
   </component>
   <component name="masterDetails">
     <states>
@@ -1132,7 +1154,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.29770115" />
               </list>
             </option>
           </splitter-proportions>
@@ -1144,7 +1166,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.29770115" />
               </list>
             </option>
           </splitter-proportions>
@@ -1155,7 +1177,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.29770115" />
               </list>
             </option>
           </splitter-proportions>
@@ -1167,7 +1189,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.29770115" />
               </list>
             </option>
           </splitter-proportions>
@@ -1179,7 +1201,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.29770115" />
                 <option value="0.6" />
               </list>
             </option>
@@ -1192,7 +1214,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.63448274" />
               </list>
             </option>
           </splitter-proportions>
