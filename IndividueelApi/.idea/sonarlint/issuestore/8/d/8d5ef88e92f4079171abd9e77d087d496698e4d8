@@ -1,0 +1,10 @@
+
+Lsquid:S1481e")Remove this unused "user" local variable.(àåºıúÿÿÿÿ8µ”¿ä„-
+|squid:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¼Ü’øÿÿÿÿ8µ”¿ä„-
+isquid:UselessImportCheck"9Remove this unused import 'Application.Dal.Entity.Lobby'.(Ô¥Ëÿÿÿÿÿ8éşöã„-
+rsquid:S00100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìö¾ûÿÿÿÿ8ÆÓöã„-
+Qsquid:S1481+".Remove this unused "addedUser" local variable.(Äãâ²úÿÿÿÿ8µ”¿ä„-
+1squid:S1220""Move this file to a named package.
+`squid:S1854+"=Remove this useless assignment to local variable "addedUser".(Äãâ²úÿÿÿÿ8µ”¿ä„-
+Zsquid:S3655["7Call "Optional#isPresent()" before accessing the value.(´Öéïûÿÿÿÿ8µ”¿ä„-
+[squid:S1854e"8Remove this useless assignment to local variable "user".(àåºıúÿÿÿÿ8µ”¿ä„-

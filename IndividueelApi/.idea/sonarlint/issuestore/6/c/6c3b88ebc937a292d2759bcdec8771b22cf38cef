@@ -1,0 +1,7 @@
+
+ª%squid:RedundantThrowsDeclarationCheck+"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(è‰¾¬ıÿÿÿÿ8ç¾ã„-
+ª%squid:RedundantThrowsDeclarationCheck8"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(…ÕÀúşÿÿÿÿ8ç¾ã„-
+Zsquid:S3655:"7Call "Optional#isPresent()" before accessing the value.(·¾œúÿÿÿÿ8ç¾ã„-
+Zsquid:S3655,"7Call "Optional#isPresent()" before accessing the value.(·¾œúÿÿÿÿ8ç¾ã„-
+ª%squid:RedundantThrowsDeclarationCheckA"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(÷ÃÁ°úÿÿÿÿ8ç¾ã„-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘†ó

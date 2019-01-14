@@ -1,0 +1,9 @@
+
+˜squid:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(ªœ€ñ8©®ä„-
+Vsquid:S2589"8Remove this expression which always evaluates to "false"(ªœ€ñ8©®ä„-
+Vsquid:S2589"8Remove this expression which always evaluates to "false"(ªœ€ñ8©®ä„-
+Vsquid:S2589"8Remove this expression which always evaluates to "false"(ªœ€ñ8©®ä„-
+˜squid:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(ªœ€ñ8©®ä„-
+˜squid:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(ªœ€ñ8©®ä„-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘†ó
+nsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8ó¨Œä„-
