@@ -4,7 +4,7 @@ pipeline {
     stage('Test') {
       steps {
         sh '''chmod +x /gradle
-./gradle test
+/.gradle test
 '''
       }
     }
