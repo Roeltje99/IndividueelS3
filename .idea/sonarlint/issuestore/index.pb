@@ -47,3 +47,7 @@ Q
 .src/main/java/Application/Dal/Entity/User.java,c\f\cf38fda5d2b765be70c5c05fca1794e682dec658
 P
  src/test/java/UserLogicTest.java,8\d\8d5ef88e92f4079171abd9e77d087d496698e4d8
+;
+Jenkinsfile,0\c\0c2c5c506cef0ed2d3ad2b7e45e97980b66f5520
+;
+gradlew.bat,2\a\2a45a911a8f1836b0b6c5b758962572012d8f8c3
