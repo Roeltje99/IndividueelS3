@@ -3,8 +3,8 @@ pipeline {
   stages {
     stage('Test') {
       steps {
-        sh '''chmod +x /IndividueelApi/gradle
-/IndividueelApi/gradle test
+        sh '''chmod +x gradlew
+gradlew test
 '''
       }
     }
