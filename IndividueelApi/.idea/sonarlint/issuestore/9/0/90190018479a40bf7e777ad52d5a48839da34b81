@@ -1,9 +1,0 @@
-
-msquid:S00100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(׃¢…¿8אדנד„-
-Hsquid:S1481_"*Remove this unused "lobby" local variable.(˜ ¯‘8אדנד„-
-wsquid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(בט›8אדנד„-
-1squid:S1220""Move this file to a named package.
-[squid:S3655W"8Call "testLobby.isPresent()" before accessing the value.(¬׃שÿÿÿÿ8אדנד„-
-^squid:S1854u";Remove this useless assignment to local variable "message".(£û¯¦ÿÿÿÿÿ8אדנד„-
-Osquid:S1481u",Remove this unused "message" local variable.(£û¯¦ÿÿÿÿÿ8אדנד„-
-Wsquid:S1854_"9Remove this useless assignment to local variable "lobby".(˜ ¯‘8אדנד„-
